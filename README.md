@@ -5,7 +5,7 @@
 
 -  *Desafio da DIO developer CSS: clone do discord Responsivo!*
 
-[🔗Clique aqui pra acessar](https://douglasffjw.github.io/MarioGame/)
+[🔗Clique aqui pra acessar](https://douglasffjw.github.io/desafioDiscord_Dio/)
 
 ## 🛠 Tecnologias
 
